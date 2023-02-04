@@ -1,0 +1,10 @@
+D:\Clasa 12_ c#\App_2\App_2\bin\Debug\App_2.exe.config
+D:\Clasa 12_ c#\App_2\App_2\bin\Debug\App_2.exe
+D:\Clasa 12_ c#\App_2\App_2\bin\Debug\App_2.pdb
+D:\Clasa 12_ c#\App_2\App_2\obj\Debug\App_2.Form1.resources
+D:\Clasa 12_ c#\App_2\App_2\obj\Debug\App_2.Properties.Resources.resources
+D:\Clasa 12_ c#\App_2\App_2\obj\Debug\App_2.csproj.GenerateResource.cache
+D:\Clasa 12_ c#\App_2\App_2\obj\Debug\App_2.csproj.CoreCompileInputs.cache
+D:\Clasa 12_ c#\App_2\App_2\obj\Debug\App_2.exe
+D:\Clasa 12_ c#\App_2\App_2\obj\Debug\App_2.pdb
+D:\Clasa 12_ c#\App_2\App_2\obj\Debug\App_2.csprojAssemblyReference.cache
